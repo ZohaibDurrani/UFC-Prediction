@@ -1,1 +1,7 @@
-data/*.csv !UFC_Train.csv
+data/d.csv
+data/UFC_Prediction_Example.csv
+.jovianrc
+ufc-data-Copy1.ipynb
+ufc-data.py
+UFC.ipynb
+
