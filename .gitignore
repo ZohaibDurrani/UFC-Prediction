@@ -1,1 +1,1 @@
-/data/d.csv
+data/*.csv !UFC_Train.csv
